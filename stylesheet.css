@@ -1,0 +1,20 @@
+.title {
+  color: black;
+}
+
+span {
+  color: red;
+}
+
+body {
+  margin: 0 auto;
+}
+
+.container {
+  height:300px;
+  width:600px;
+  color: black;
+  background-color: yellow;
+  text-align: center;
+  opacity: 80%
+}
